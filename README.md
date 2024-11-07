@@ -8,9 +8,9 @@ The **Cutting Stock Problem** is an NP-hard problem where the goal is to cut sta
 
 The specific objectives for this project are to optimize solutions for four different input scenarios by minimizing the total number of rolls required.
 
-<div style="text-align: center;">
-    <img src="./assets/Screenshot 1403-08-17 at 12.12.26.png" alt="drawing" width="330"/>
-</div>
+<p align="center">
+  <img src="./assets/Screenshot 1403-08-17 at 12.12.26.png" alt="drawing" width="330"/>
+</p>
 
 ## Requirements
 
